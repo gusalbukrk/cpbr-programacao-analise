@@ -1,0 +1,102 @@
+[
+  {
+    "nome": "cpgoias4",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/61/v2",
+    "programacaoBancadasLink": "https://api.4.events/activities/schedule/18443/90/v2",
+    "estado": "Goiás",
+    "cidade": "Goiânia",
+    "ano": 2024,
+    "dataInicio": "27-11",
+    "dataFinal": "01-12"
+  },
+  {
+    "nome": "cpnordeste",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/67/v2",
+    "programacaoBancadasLink": "https://api.4.events/activities/schedule/18443/88/v2",
+    "estado": "Pernambuco",
+    "cidade": "São Lourenço da Mata",
+    "ano": 2024,
+    "dataInicio": "04-09",
+    "dataFinal": "08-09"
+  },
+  {
+    "nome": "cpbr16",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/65/v2",
+    "programacaoBancadasLink": "https://api.4.events/activities/schedule/18443/84/v2",
+    "estado": "São Paulo",
+    "cidade": "São Paulo",
+    "ano": 2024,
+    "dataInicio": "09-07",
+    "dataFinal": "14-07"
+  },
+  {
+    "nome": "cpbsb6",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/64/v2",
+    "programacaoBancadasLink": null,
+    "estado": "Brasilia",
+    "cidade": "Brasília",
+    "ano": 2024,
+    "dataInicio": "27-03",
+    "dataFinal": "31-03"
+  },
+  {
+    "nome": "cpamazonia",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/57/v2",
+    "programacaoBancadasLink": null,
+    "estado": "Amazonas",
+    "cidade": "Manaus",
+    "ano": 2023,
+    "dataInicio": "11-10",
+    "dataFinal": "15-10"
+  },
+  {
+    "nome": "cpbr15",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/41/v2",
+    "programacaoBancadasLink": null,
+    "estado": "São Paulo",
+    "cidade": "São Paulo",
+    "ano": 2023,
+    "dataInicio": "25-07",
+    "dataFinal": "30-07"
+  },
+  {
+    "nome": "cpgoias3",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/56/v2",
+    "programacaoBancadasLink": null,
+    "estado": "Goiás",
+    "cidade": "Goiânia",
+    "ano": 2023,
+    "dataInicio": "07-06",
+    "dataFinal": "11-06"
+  },
+  {
+    "nome": "cpbsb5",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/53/v2",
+    "programacaoBancadasLink": null,
+    "estado": "Brasília",
+    "cidade": "Brasília",
+    "ano": 2023,
+    "dataInicio": "05-04",
+    "dataFinal": "09-04"
+  },
+  {
+    "nome": "cpbr14",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/14/v2",
+    "programacaoBancadasLink": null,
+    "estado": "São Paulo",
+    "cidade": "São Paulo",
+    "ano": 2022,
+    "dataInicio": "11-11",
+    "dataFinal": "15-11"
+  },
+  {
+    "nome": "cpgoias2",
+    "programacaoLink": "https://api.4.events/activities/schedule/18443/37/v2",
+    "programacaoBancadasLink": null,
+    "estado": "Goiás",
+    "cidade": "Goiânia",
+    "ano": 2022,
+    "dataInicio": "15-06",
+    "dataFinal": "19-06"
+  }
+]
