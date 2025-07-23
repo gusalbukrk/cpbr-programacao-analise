@@ -16,3 +16,10 @@ Se você utilizar o código ou o dataset deste repositório em seu trabalho, por
   notes={Código e dataset}
 }
 ```
+
+## Como rodar
+
+- `python -m venv .venv`
+- `source .venv/bin/activate`
+- `pip install -r requirements.txt`
+- create a `.env` file containing a `API_KEY` variable with your Gemini API key
